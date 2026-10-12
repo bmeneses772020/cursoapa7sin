@@ -3,7 +3,7 @@
  * no es seguridad bancaria (cualquiera que lea el código fuente podría saltárselo). */
 export const COURSE_ID = "apa7";
 export const COURSE_TITLE = "APA 7";
-export const HUB_URL = "https://cursoseducacioncontinua.vercel.app/";
+export const HUB_URL = "https://portalformacontinuasin.vercel.app/";
 const SALT = "fc-educacion-continua-2026";
 const EC_KEY = "educacion-continua-modo-v1";
 
